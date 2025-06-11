@@ -1,13 +1,13 @@
 {
-    "indexTitle": "Edizione Logica Avicennae [experimental encoding]",
+    "indexTitle": "Test",
     "webSite": "",
     "logoUrl": "",
     
     "dataUrl": "data/text/test.xml",
-    "sourcesUrl": "data/text/sources.xml",
-    "analoguesUrl": "data/text/analogues.xml",
-    "sourcesTextsUrl": "data/text/sources/",
-    "singleImagesUrl": "",
+    "sourcesUrl": "",
+    "analoguesUrl": "",
+    "sourcesTextsUrl": "",
+    "singleImagesUrl": "data/images/test",
     "enableXMLdownload": true,
     
     "visCollTextUrl": "",
