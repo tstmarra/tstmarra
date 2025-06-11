@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">DAMN</title>
+            <title type="sub">La codifica digitale dell'album di<persName>Kendrick Lamar</persName></title>
+            <respStmt>
+               <resp>Codifica a cura di</resp><persName>Antonio Russo</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+           <publisher>Unisob</publisher>
+            <pubPlace>Napoli</pubPlace>
+            <address><street>Corso Vittorio Emanuele</street></address>
+            <date when-iso="DD-MM-YYYY">06-05-2024</date>
+            <availability  status="restricted"><p>Contattare l'autore per la riproduzione</p></availability>
+            <idno>TST_10</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">DAMN.</title>
+               <title type="desc">Parental Advisory Explicit Content</title>
+               <author>Kendrick Lamar</author>
+               <date when-iso="DD-MM-YYYY">14-04-2017</date>
+               <editor>9th Wonder</editor>
+               <editor>The Alchemist</editor>
+               <editor>Bēkon</editor>
+               <editor>BadBadNotGood</editor>
+               <editor>Cardo</editor>
+               <editor>DJ Dahi</editor>
+               <editor>Greg Kurstin</editor>
+               <editor>James Blake</editor>
+               <editor>Mike Will Made It</editor>
+               <editor>Ricci Riera</editor>
+               <editor>Sounwave</editor>
+               <editor>Steve Lacy</editor>
+               <editor>Terrace Martin</editor>
+               <editor>Tae Beast</editor>
+               <editor>Teddy Walton</editor>
+               <editor>Top Dawg</editor>
+               <sponsor>TDE</sponsor>
+               <sponsor>Aftermath Entertainment</sponsor>
+               <sponsor>Interscope Records</sponsor>
+               <pubPlace>Los Angeles</pubPlace>
+               <pubPlace>Santa Monica</pubPlace>
+               <pubPlace>New York</pubPlace>
+               <publisher>TDE</publisher>
+               <idno type="ISBN">B0716SPKYW</idno>
+               <figure><graphic url="https://m.media-amazon.com/images/I/91V-jgNsKmL._UF1000,1000_QL80_.jpg"><desc>copertina</desc></graphic></figure>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head xml:id="Humble"><hi rend="bold">Humble</hi></head>
+         <lg>
+            <l n="1">Nobody pray for me</l><lb/>
+            <l n="2">It been that day for me</l><lb/>
+            <l n="3">Way</l><lb/>
+            <l n="4">Yeah, yeah!</l><lb/>
+            
+            <l n="5">Ayy, I remember syrup sandwiches and crime allowances</l><lb/>
+            <l n="6">Finesse on 'em with some counterfeits, but now I'm countin' this</l><lb/>
+            <l n="7">Parmesan where my accountant lives, in fact, I'm downin' this</l><lb/>
+            <l n="8">D'USSE with my boo bae tastes like Kool-Aid for the analysts</l><lb/>
+            
+            <l n="9">Girl, I can buy yo' ass the world with my paystub</l><lb/>
+            <l n="10">I know that it's good, won't you sit it on my taste bluds?</l><lb/>
+            <l n="11">I get way too petty once you let me do the extras</l><lb/>
+            <l n="12">Pull up on your block, then break it down, we playin' Tetris</l><lb/>
+            
+            <l n="13">A.m. to the p.m., p.m. to the a.m., funk</l><lb/>
+            <l n="14">Eat up your per diem, you just gotta hate 'em, funk</l><lb/>
+            <l n="15">If I quit your BM, I still ride Mercedes, funk</l><lb/>
+            <l n="16">If I quit this season, I still be the greatest, funk</l><lb/>
+            
+            <l n="17">My left stroke just went viral</l><lb/>
+            <l n="18">Right stroke put lil' baby in a spiral</l><lb/>
+            <l n="19">Soprano C, we like to keep it on a high note</l><lb/>
+            <l n="20">It's levels to it, you and I know</l><lb/>
+            
+            <l n="21">Tell 'em, be humble (hol' up)</l><lb/>
+            <l n="22">Sit down (hol' up, hol' up, lil', hol' up)</l><lb/>
+            <l n="23">Be humble (hol' up)</l><lb/>
+            <l n="24">Sit down (hol' up, sit down, lil', sit down, lil')</l><lb/>
+            <l n="25">Be humble (hol' up, hol' up)</l><lb/>
+            <l n="26">Sit down (hol' up, hol' up, lil', hol' up)</l><lb/>
+            <l n="27">Be humble (hol' up)</l><lb/>
+            <l n="28">Sit down (hol' up, hol' up, hol' up)</l><lb/>
+            
+            <l n="29">Be humble (hol' up, hol' up)</l><lb/>
+            <l n="30">Sit down (hol' up, hol' up, lil', hol' up, lil')</l><lb/>
+            <l n="31">Be humble (hol' up)</l><lb/>
+            <l n="32">Sit down (hol' up, sit down, lil', sit down, lil')</l><lb/>
+            <l n="33">Be humble (hol' up, hol' up)</l><lb/>
+            <l n="34">Sit down (hol' up, hol' up, lil', hol' up)</l><lb/>
+            <l n="35">Be humble (hol' up)</l><lb/>
+            <l n="36">Sit down (hol' up, hol' up, hol' up, hol' up)</l><lb/>
+            
+            <l n="37">Who dat -a thinkin' that he frontin' on Man-Man? (Man-Man)</l><lb/>
+            <l n="38">Get the f- off my stage, I'm the Sandman (Sandman)</l><lb/>
+            <l n="39">Get the f- off my (ayy), that ain't right</l><lb/>
+            <l n="40">I make a play blowing up your whole life</l><lb/>
+            
+            <l n="41">I'm so, so sick and tired of the Photoshop</l><lb/>
+            <l n="42">Show me somethin' natural like afro on Richard Pryor</l><lb/>
+            <l n="43">Show me somethin' natural, I wanna feel some stretch marks</l><lb/>
+            <l n="44">Still I take you down right on your mama couch in Polo socks</l><lb/>
+            
+            <l n="45">Ayy, this shit way too crazy, ayy, you do not amaze me, ayy</l><lb/>
+            <l n="46">I blew cool from AC, ayy, <persName>Obama</persName> just paged me, ayy</l><lb/>
+            <l n="47">I don't fabricate it, ayy, most of y'all be fakin', ayy</l><lb/>
+            <l n="48">I stay modest 'bout it, ayy, she elaborate it, ayy</l><lb/>
+            
+            <l n="49">This that Grey Poupon, that Evian, that TED Talk, ayy</l><lb/>
+            <l n="50">Watch my soul speak, you let the meds talk, ayy</l><lb/>
+            <l n="51">If I kill a, uhm, it won't be the alcohol, ayy</l><lb/>
+            <l n="52">I'm the realest, uhm, after all</l><lb/>
+            
+            <l n="53">Tell 'em, be humble (hol' up)</l><lb/>
+            <l n="54">Sit down (hol' up, hol' up, lil')</l><lb/>
+            <l n="55">Be humble (hol' up)</l><lb/>
+            <l n="56">Sit down (hol' up, sit down, lil', sit down, lil')</l><lb/>
+            <l n="57">Tell 'em sit down(hol' up, hol' up, lil' hol' up)</l><lb/>
+            <l n="58">Be humble (hol' up)</l><lb/>
+            <l n="59">Sit down (hol' up, hol' up, hol' up, hol' up)</l><lb/>
+            
+            <l n="60">Be humble (hol' up, hol' up)</l><lb/>
+            <l n="61">Sit down (hol' up, hol' up, lil', hol' up, lil')</l><lb/>
+            <l n="62">Be humble (hol' up)</l><lb/>
+            <l n="63">Sit down (hol' up, sit down, lil', sit down, lil')</l><lb/>
+            <l n="64">Be humble (hol' up, hol' up)</l><lb/>
+            <l n="65">Sit down (hol' up, hol' up, lil', hol' up)</l><lb/>
+            <l n="66">Be humble (hol' up, hol' up)</l><lb/>
+            <l n="67">Sit down (hol' up, hol' up, hol' up)</l><lb/>
+         </lg>
+      </body>
+     <back>
+        <head><hi rend="bold">Tracce</hi></head>
+        <list>
+           <item><label n="1"><hi rend="italic">Blood</hi></label></item>
+           <item><label n="2"><hi rend="italic">DNA</hi></label></item>
+           <item><label n="3"><hi rend="italic">Yah</hi></label></item>
+           <item><label n="4"><hi rend="italic">Element</hi></label></item>
+           <item><label n="5"><hi rend="italic">Feel</hi></label></item>
+           <item><label n="6"><hi rend="italic">Loyalty</hi>(feat.<persName>Rihanna</persName>)</label></item>
+           <item><label n="7"><hi rend="italic">Pride</hi></label></item>
+           <item><label n="8"><hi rend="italic">Humble</hi></label></item>
+           <item><label n="9"><hi rend="italic">Lust</hi></label></item>
+           <item><label n="10"><hi rend="italic">Love</hi>(feat.<persName>Zacari</persName>)</label></item>
+           <item><label n="11"><hi rend="italic">XXX</hi>(feat.<orgName>U2</orgName>)</label></item>
+           <item><label n="12"><hi rend="italic">Fear</hi></label></item>
+           <item><label n="13"><hi rend="italic">God</hi></label></item>
+           <item><label n="14"><hi rend="italic">Duckworth</hi></label></item>
+        </list>
+     </back>
+  </text>
+</TEI>
