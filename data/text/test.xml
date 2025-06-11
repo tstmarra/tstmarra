@@ -40,10 +40,15 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+	<facsimile xml:id="fac_test">
+  <surface xml:id="surf_test">
+    <graphic url="test.jpg" width="1200px" height="1800px"/>
+  </surface>
+</facsimile>
    <text>
       <body>
          <head xml:id="Wonderwall"><hi rend="bold">Wonderwall</hi></head>
-         <lg>
+         <lg facs="#surf_test">
             <l n="1">Today is gonna be the day that they're gonna throw it back to you</l><lb/>
             <l n="2">By now, you should've somehow realised what you gotta do</l><lb/>
             <l n="3">I don't believe that anybody feels the way I do about you now</l><lb/>
