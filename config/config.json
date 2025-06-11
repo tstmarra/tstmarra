@@ -4,10 +4,10 @@
    "logoUrl": "",
    
    "dataUrl": "data/text/test.xml",
-   "sourcesUrl": "",
-   "analoguesUrl": "",
-   "sourcesTextsUrl": "",
-   "singleImagesUrl": "data/images/single/",
+   "sourcesUrl": "data/text/sources.xml",
+   "analoguesUrl": "data/text/analogues.xml",
+   "sourcesTextsUrl": "data/text/sources/",
+   "singleImagesUrl": "",
    "enableXMLdownload": true,
 
    "visCollTextUrl": "",
