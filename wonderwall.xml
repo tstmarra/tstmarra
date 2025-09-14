@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wonderwall</title>
+            <title type="sub">Edizione digitale</title>
+            <respStmt>
+               <resp>Codifica a cura di </resp><persName>Gennaro Marra</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Supervisione a cura di </resp><persName>Antonio Corvino</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Unisob</publisher>
+            <pubPlace>Napoli</pubPlace>
+            <address><street>Corso Vittorio Emanuele</street></address>
+            <date when-iso="DD-MM-YYYY">15/09/2025</date>
+            <availability  status="restricted"><p>I diritti sono riservati. Contattare l'autore per la riproduzione</p></availability>
+            <idno>TST_01</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">Wonderwall</title>
+               <title type="desc">Singolo discografico</title>
+               <author>Noel Gallagher</author>
+               <date when-iso="DD-MM-YYYY">30-10-1995</date>
+               <editor>Creation Records</editor>
+               <publisher>Creation Records</publisher>
+               <pubPlace>Manchester</pubPlace>
+               <idno type="ISBN">B00004WXGY</idno>
+               <figure><graphic url="https://m.media-amazon.com/images/I/71WwxxIUjsL._AC_SL1024_.jpg"><desc>copertina</desc></graphic></figure>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head xml:id="Wonderwall"><hi rend="bold">Wonderwall</hi></head>
+         <lg type="verse">
+            <l n="1">
+               <choice>
+                  <orig xml:lang="en">Today is gonna be the day that they're gonna throw it back to you</orig>
+                  <reg xml:lang="it">Oggi sarà il giorno in cui ti verrà data di nuovo un'opportunità</reg>
+               </choice>
+            </l>
+            <l n="2">
+               <choice>
+                  <orig xml:lang="en">By now, you should've somehow realised what you gotta do</orig>
+                  <reg xml:lang="it">A quest’ora avresti dovuto in qualche modo capire cosa devi fare</reg>
+               </choice>
+            </l>
+            <l n="3">
+               <choice>
+                  <orig xml:lang="en">I don't believe that anybody feels the way I do about you now</orig>
+                  <reg xml:lang="it">Non credo che nessuno provi per te ciò che provo io adesso</reg>
+               </choice>
+            </l>
+            <l n="4">
+               <choice>
+                  <orig xml:lang="en">Backbeat, the word was on the street that the fire in your heart is out</orig>
+                  <reg xml:lang="it">Il ritmo di fondo, si diceva in giro che la fiamma nel tuo cuore si sia spenta</reg>
+               </choice>
+            </l>
+            <l n="5">
+               <choice>
+                  <orig xml:lang="en">I'm sure you've heard it all before, but you never really had a doubt</orig>
+                  <reg xml:lang="it">Sono sicuro che l’hai già sentito, ma non hai mai avuto davvero dubbi</reg>
+               </choice>
+            </l>
+            <l n="6">
+               <choice>
+                  <orig xml:lang="en">I don't believe that anybody feels the way I do about you now</orig>
+                  <reg xml:lang="it">Non credo che nessuno provi per te ciò che provo io adesso</reg>
+               </choice>
+            </l>
+            <l n="7">
+               <choice>
+                  <orig xml:lang="en">And all the roads we have to walk are winding</orig>
+                  <reg xml:lang="it">E tutte le strade che dobbiamo percorrere sono tortuose</reg>
+               </choice>
+            </l>
+            <l n="8">
+               <choice>
+                  <orig xml:lang="en">And all the lights that lead us there are blinding</orig>
+                  <reg xml:lang="it">E tutte le luci che ci guidano sono accecanti</reg>
+               </choice>
+            </l>
+            <l n="9">
+               <choice>
+                  <orig xml:lang="en">There are many things that I would like to say to you</orig>
+                  <reg xml:lang="it">Ci sono molte cose che vorrei dirti</reg>
+               </choice>
+            </l>
+            <l n="10">
+               <choice>
+                  <orig xml:lang="en">But I don't know how</orig>
+                  <reg xml:lang="it">Ma non so come</reg>
+               </choice>
+            </l>
+            <l n="11">
+               <choice>
+                  <orig xml:lang="en">Because maybe</orig>
+                  <reg xml:lang="it">Perché forse</reg>
+               </choice>
+            </l>
+            <l n="12">
+               <choice>
+                  <orig xml:lang="en">You're gonna be the one that saves me</orig>
+                  <reg xml:lang="it">Tu sarai colei che mi salverà</reg>
+               </choice>
+            </l>
+            <l n="13">
+               <choice>
+                  <orig xml:lang="en">And after all</orig>
+                  <reg xml:lang="it">E dopotutto</reg>
+               </choice>
+            </l>
+            <l n="14">
+               <choice>
+                  <orig xml:lang="en">You're my wonderwall</orig>
+                  <reg xml:lang="it">Tu sei il mio muro delle meraviglie</reg>
+               </choice>
+            </l>
+            <l n="15">
+               <choice>
+                  <orig xml:lang="en">Today was gonna be the day, but they'll never throw it back to you</orig>
+                  <reg xml:lang="it">Oggi doveva essere il giorno, ma non ti daranno mai un'altra occasione</reg>
+               </choice>
+            </l>
+            <l n="16">
+               <choice>
+                  <orig xml:lang="en">By now, you should've somehow realised what you're not to do</orig>
+                  <reg xml:lang="it">A quest’ora avresti dovuto capire cosa non devi fare</reg>
+               </choice>
+            </l>
+            <l n="17">
+               <choice>
+                  <orig xml:lang="en">I don't believe that anybody feels the way I do about you now</orig>
+                  <reg xml:lang="it">Non credo che nessuno provi per te ciò che provo io adesso</reg>
+               </choice>
+            </l>
+            <l n="18">
+               <choice>
+                  <orig xml:lang="en">I said, &quot;Maybe</orig>
+                  <reg xml:lang="it">Ho detto: &quot;Forse</reg>
+               </choice>
+            </l>
+            <l n="19">
+               <choice>
+                  <orig xml:lang="en">You're gonna be the one that saves me</orig>
+                  <reg xml:lang="it">Tu sarai colei che mi salverà</reg>
+               </choice>
+            </l>
+            <l n="20">
+               <choice>
+                  <orig xml:lang="en">And after all</orig>
+                  <reg xml:lang="it">E dopotutto</reg>
+               </choice>
+            </l>
+            <l n="21">
+               <choice>
+                  <orig xml:lang="en">You're my wonderwall</orig>
+                  <reg xml:lang="it">Tu sei il mio muro delle meraviglie</reg>
+               </choice>
+            </l>
+            <l n="22">
+               <choice>
+                  <orig xml:lang="en">I said, &quot;Maybe (I said maybe)</orig>
+                  <reg xml:lang="it">Ho detto: &quot;Forse (ho detto forse)</reg>
+               </choice>
+            </l>
+            <l n="23">
+               <choice>
+                  <orig xml:lang="en">You're gonna be the one that saves me</orig>
+                  <reg xml:lang="it">Tu sarai colei che mi salverà</reg>
+               </choice>
+            </l>
+            <l n="24">
+               <choice>
+                  <orig xml:lang="en">And after all</orig>
+                  <reg xml:lang="it">E dopotutto</reg>
+               </choice>
+            </l>
+            <l n="25">
+               <choice>
+                  <orig xml:lang="en">You're my wonderwall</orig>
+                  <reg xml:lang="it">Tu sei il mio muro delle meraviglie</reg>
+               </choice>
+            </l>
+            <l n="28">
+               <choice>
+                  <orig xml:lang="en">I said, &quot;Maybe (I said maybe)</orig>
+                  <reg xml:lang="it">Ho detto: &quot;Forse (ho detto forse)</reg>
+               </choice>
+            </l>
+            <l n="29">
+               <choice>
+                  <orig xml:lang="en">You're gonna be the one that saves me (saves me)</orig>
+                  <reg xml:lang="it">Tu sarai colei che mi salverà (mi salverà)</reg>
+               </choice>
+            </l>
+            <l n="30">
+               <choice>
+                  <orig xml:lang="en">You're gonna be the one that saves me (saves me)</orig>
+                  <reg xml:lang="it">Tu sarai colei che mi salverà (mi salverà)</reg>
+               </choice>
+            </l>
+            <l n="31">
+               <choice>
+                  <orig xml:lang="en">You're gonna be the one that saves me&quot; (saves me)</orig>
+                  <reg xml:lang="it">Tu sarai colei che mi salverà&quot; (mi salverà)</reg>
+               </choice>
+            </l>
+         </lg>
+      </body>
+      <back>
+      </back>
+   </text>
+</TEI>
