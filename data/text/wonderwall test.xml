@@ -26355,18 +26355,21 @@
       
          <div type="biblCompleta">
             <listBibl>
-               <bibl xml:id="APG"><emph>Annales Placentini Gibellini</emph>,in <emph>Monumenta
-                     Germaniae Historica. Scriptores</emph>, XVIII, Hannover 1863, pp.
-                  457-581</bibl>
+               <bibl xml:id="BENNET_2001">
+      <author>A. BENNET</author>
+      <title><emph>Cultures of Popular Music</emph></title>
+      <pubPlace>Buckingham</pubPlace>
+      <publisher>Open University Press</publisher>
+      <date when="2001"/>
+    </bibl>
 
-               <bibl xml:id="ASFi_DM">ASFi, <emph>Diplomatico Malaspina</emph>, Spoglio 100.</bibl>
-
-               <bibl xml:id="ASGe_MAPPA_33"><emph>Copia della pianta dei confini fra il Serenissimo
-                     Senato di Genova e l'Illustrissimo Signor Marchese di Fosdinovo data in Camera
-                     l'anno 1587 (ca. 1625)</emph>, Archivio di Stato di Genova, Raccolta dei Tipi,
-                  disegni e mappe, Fondi cartografici originari, Mappe e tipi della Repubblica di
-                  Genova, Miscellanea di carte non riconducibili all'ordinamento originario, n.
-                  33.</bibl>
+    <bibl xml:id="BARTHES_1967">
+      <author>R. BARTHES</author>
+      <title><emph>La mort de l’auteur</emph>. In <emph>Le bruissement de la langue</emph></title>
+      <pubPlace>Paris</pubPlace>
+      <publisher>Seuil</publisher>
+      <date when="1967"/>
+    </bibl>
 
                <bibl xml:id="ASLU_SF">Archivio di Stato di Lucca, <emph>San Frediano</emph>.</bibl>
 
